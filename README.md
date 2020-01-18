@@ -10,5 +10,6 @@
 <H4>->chmod a+x smb_map_brute.sh</h4>
 
 <H2>SYNTAX</H2>
-<H4>->smb_map_brute.sh <host> <users.txt> <password.txt>
+<H4>->smb_map_brute.sh <host> <users.txt> <password.txt><H4>
+
 ![Test Image 3](syntax.png)
