@@ -2,7 +2,7 @@
 +Mapping SMB service through Bruteforce.
 ![Test Image 1](brute.png)
 +Found valid username and password
-![Test Image 2](got it.png)
+![Test Image 2](gotit.png)
 <h2>REQUIREMENTS</H2>
 <H4>->SMBMAP</H4>
 
