@@ -11,4 +11,4 @@
 
 <H2>SYNTAX</H2>
 <H4>->smb_map_brute.sh <host> <users.txt> <password.txt>
-![Test Image 2](syntax.png)
+![Test Image 3](syntax.png)
