@@ -1,4 +1,5 @@
-# <h1>SMB-MAP-BRUTE</h1>
+# <h1>SMB-MAP-BRUTE</h1>                       <img src="https://www.hackthebox.eu/badge/image/5943" alt="Hack The Box">
+
 +Mapping SMB service through Bruteforce.
 ![Test Image 1](brute.png)
 +Found valid username and password
